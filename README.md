@@ -24,13 +24,13 @@
 
 
   
-[![20IT062's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=20IT062&&theme=xcode)](https://github.com/20IT062)
+[![Jaylakhani37's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Jaylakhani37&&theme=xcode)](https://github.com/Jaylakhani37)
 <div style=" display: flex;
   justify-content: center;
   align-items: center;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=20IT062&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="20IT062" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaylakhani37&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jaylakhani37" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=20IT062&show_icons=true&locale=en&theme=tokyonight" alt="20IT062" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaylakhani37&show_icons=true&locale=en&theme=tokyonight" alt="Jaylakhani37" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=20IT062&&theme=tokyonight" alt="20IT062" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaylakhani37&&theme=tokyonight" alt="Jaylakhani37" /></p>
   </div>
