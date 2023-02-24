@@ -24,7 +24,7 @@
 
 
   
-[![Jaylakhani37's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Jaylakhani37&&theme=xcode)](https://github.com/Jaylakhani37)
+[![Jaylakhani37's GitHub activity graph](https://github.com/Jaylakhani37)
 <div style=" display: flex;
   justify-content: center;
   align-items: center;">
