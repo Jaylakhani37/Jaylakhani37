@@ -23,8 +23,7 @@
 
 
 
-  
-[![Jaylakhani37's GitHub activity graph](https://github.com/Jaylakhani37)
+<h3 align="left">Jaylakhani37's GitHub activity graph</h3>
 <div style=" display: flex;
   justify-content: center;
   align-items: center;">
