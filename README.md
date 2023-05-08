@@ -1,12 +1,12 @@
 ![1.png](https://i.postimg.cc/SRMWjcHq/1.png)
 <h1 align="center">Hi 👋, I'm Jay Lakhani</h1>
-<h3 align="center">A passionate AWS Cloud Engineer and Frontend developer from India</h3>
+<h3 align="center">A passionate AWS Cloud/DevOps Engineer from India</h3>
 
-- 🌱 I’m currently learning **Exploring Cloud Computing(AWS).**
+- 🌱 I’m currently **working on Cloud Computing(AWS)/DevOps.**
 
-- 💬 Ask me about **AWS, Frontend Webdevelopment**
+- 💬 Ask me about **AWS, DevOps, CI/CD**
 
-- 📄 Know about my experiences [https://bit.ly/3RLpXRP](https://bit.ly/3RLpXRP)
+- 📄 Know about my experiences [https://bit.ly/3B6MWAZ](https://bit.ly/3B6MWAZ)
 
 - ⚡ Fun fact **Exploring Cloud☁️ Computing in “Cloud”🤭.**
 
