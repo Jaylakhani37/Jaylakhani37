@@ -1,7 +1,6 @@
 ![1.png](https://i.postimg.cc/SRMWjcHq/1.png)
 # 💫 About Me:
-A passionate AWS Cloud/DevOps Engineer from India<br><br>🌱 I’m currently working on Cloud Computing(AWS)/DevOps.<br><br>💬 Ask me about AWS, DevOps, CI/CD<br><br>📄 Know about my experiences https://bit.ly/3B6MWAZ<br><br>⚡ Fun fact Exploring Cloud☁️ Computing in “Cloud”🤭.
-
+A passionate AWS Cloud/DevOps Engineer from India<br><br>🌱 Currently working on Cloud Computing(AWS)/DevOps.<br><br>💬 Ask me about AWS, DevOps, CI/CD<br><br>📄 Know about my experiences https://bit.ly/3B6MWAZ<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaylakhani37) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@jay_lakhani) 
