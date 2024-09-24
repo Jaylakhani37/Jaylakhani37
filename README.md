@@ -1,4 +1,5 @@
-![1.png](https://i.postimg.cc/SRMWjcHq/1.png)
+![Untitled design (2)](https://github.com/user-attachments/assets/2dfb31b5-9b27-40fe-9b29-152ce96a1423)
+
 # 💫 About Me:
 A passionate AWS Cloud/DevOps Engineer from India<br><br>🌱 Currently working on Cloud Computing(AWS)/DevOps.<br><br>💬 Ask me about AWS, DevOps, CI/CD<br><br>📄 Know about my experiences https://bit.ly/3B6MWAZ<br><br>
 
