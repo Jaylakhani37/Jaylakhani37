@@ -1,4 +1,4 @@
-![Untitled design (2)](https://github.com/user-attachments/assets/2dfb31b5-9b27-40fe-9b29-152ce96a1423)
+![image](https://github.com/user-attachments/assets/f241e6c4-bcd7-4b7d-88fc-ed768a4c7798)
 
 # 💫 About Me:
 A passionate AWS Cloud/DevOps Engineer from India<br><br>🌱 Currently working on Cloud Computing(AWS)/DevOps.<br><br>💬 Ask me about AWS, DevOps, CI/CD<br><br>📄 Know about my experiences https://bit.ly/3B6MWAZ<br><br>
