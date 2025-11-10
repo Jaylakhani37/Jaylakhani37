@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/f241e6c4-bcd7-4b7d-88fc-ed768a4c7798)
 
 # 💫 About Me:
-A passionate AWS Cloud/DevOps Engineer from India<br><br>🌱 Currently working on Cloud Computing(AWS)/DevOps.<br><br>💬 Ask me about AWS, DevOps, CI/CD<br><br>
+A passionate AWS Cloud/DevOps Engineer from India<br><br>🌱 Currently working on Cloud Computing(AWS)/DevOps.<br><br>💬 Ask me about AWS, DevOps, CI/CD
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaylakhani764) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jay_lakhani) 
 
